@@ -15,6 +15,6 @@
 <p>引用</p>
 </blockquote>
 
-[リンクテキスト(ｷﾞｯﾖﾊﾟﾌ](https://github.com/karubabu)
+[リンクテキスト(ｷﾞｯﾖﾊﾟﾌ)](https://github.com/karubabu)
 
 ここまで
